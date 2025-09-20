@@ -2,7 +2,7 @@
 Sebuah program python sederhana yang menerapkan konsep CRUD (Create, Read, Update, Delete) dengan menggunakan Conditional Statements, List &amp; Tuple dan Looping.
 
 Manajemen Salon Rambut adalah aplikasi Python sederhana untuk membantu pemilik salon atau admin mengelola data pelanggan dengan mudah dan efisien.
-Fitur utama program ini:
+#### Fitur utama program ini:
 Lihat Data Pelanggan: menampilkan daftar pelanggan beserta layanan dan harga.
 Tambah Data Pelanggan: menambahkan pelanggan baru beserta layanan yang dipilih.
 Ubah Data Pelanggan: memperbarui layanan atau harga pelanggan berdasarkan nama.
